@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-Commerce on Shalhan Assalam - Data Analyst</title>
+    <link>https://hansproject.github.io/tags/e-commerce/</link>
+    <description>Recent content in E-Commerce on Shalhan Assalam - Data Analyst</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samba Commerce Dashboard</title>
+      <link>https://hansproject.github.io/projects/samba-commerce/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hansproject.github.io/projects/samba-commerce/</guid>
+      <description>Situation As data analyst in Samba Commerce, the CEO ask me to make dashboard to capture and understand more metrics and make the business data more comprehensive and insightful.
+Backround You are a data analyst at one of the fast growing ecommerce in Brazil named Samba Commerce, which just launched in 2021. Samba Commerce offers more than 15k products, and more than 50 product categories to the customers all over Brazil.</description>
+    </item>
+    
+    <item>
+      <title>Luxura Analysis Part 1</title>
+      <link>https://hansproject.github.io/projects/luxura-analysis1/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hansproject.github.io/projects/luxura-analysis1/</guid>
+      <description>Situation In this project, I&amp;rsquo;m part of Luxura&amp;rsquo;s Data Analytics team. As fashion e-commerce company, Luxura selling several luxury fashion brands. In order to expand business partnership, Luxura needed to decide which brand to prioritize as their main brand partnership based on historical performance.
+Backround Luxura is an e-commerce company that exclusively sells high-end fashion brands including Adibi, Balena, and Celinna . These brands have seen increasing market share over the past 3 years and rely on Luxura as their sole retail partner.</description>
+    </item>
+    
+    <item>
+      <title>theLook eCommerce 2022 - SQL</title>
+      <link>https://hansproject.github.io/projects/thelook-ecommerce/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hansproject.github.io/projects/thelook-ecommerce/</guid>
+      <description>Situation I conducted SQL analysis on ecommerce data from TheLook to provide growth and retention insights to inform optimization decisions during a potential crisis.
+Backround TheLook is an ecommerce clothing retailer anticipating an economic downturn in 2023. To optimize their business, management needs to strategically cut costs in underperforming areas.
+TheLook lacks insights into their category growth and customer retention metrics. This data is required to determine which categories have momentum versus which are stagnating.</description>
+    </item>
+    
+    <item>
+      <title>GoFood Customer Journey Analysis</title>
+      <link>https://hansproject.github.io/projects/gofood-customer-journey/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hansproject.github.io/projects/gofood-customer-journey/</guid>
+      <description>Situation I was hired as a Data Analyst at Gojek, a ride-hailing and delivery company. I collaborated with product and business teams to define metrics and analyze customer journeys for GoFood , Gojek&amp;rsquo;s food delivery service.
+Backround Gojek is a super app providing ride-hailing, food delivery, and digital payment services in Southeast Asia. GoFood, their food delivery business, has grown rapidly but faces fierce competition.
+While Gojek tracks high-level business metrics, they lacked visibility into detailed customer journeys and events .</description>
+    </item>
+    
+  </channel>
+</rss>

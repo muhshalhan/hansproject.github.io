@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Looker on Shalhan Assalam - Data Analyst</title>
+    <link>https://hansproject.github.io/tags/looker/</link>
+    <description>Recent content in Looker on Shalhan Assalam - Data Analyst</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/tags/looker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samba Commerce Dashboard</title>
+      <link>https://hansproject.github.io/projects/samba-commerce/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hansproject.github.io/projects/samba-commerce/</guid>
+      <description>Situation As data analyst in Samba Commerce, the CEO ask me to make dashboard to capture and understand more metrics and make the business data more comprehensive and insightful.
+Backround You are a data analyst at one of the fast growing ecommerce in Brazil named Samba Commerce, which just launched in 2021. Samba Commerce offers more than 15k products, and more than 50 product categories to the customers all over Brazil.</description>
+    </item>
+    
+  </channel>
+</rss>
