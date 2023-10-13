@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>App Journey on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/tags/app-journey/</link>
-    <description>Recent content in App Journey on Shalhan Assalam - Data Analyst</description>
+    <title>App Journey on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/tags/app-journey/</link>
+    <description>Recent content in App Journey on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/tags/app-journey/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/tags/app-journey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GoFood Customer Journey Analysis</title>
-      <link>https://hansproject.github.io/projects/gofood-customer-journey/</link>
+      <link>https://hansproject.netlify.app/projects/gofood-customer-journey/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/gofood-customer-journey/</guid>
+      <guid>https://hansproject.netlify.app/projects/gofood-customer-journey/</guid>
       <description>Situation I was hired as a Data Analyst at Gojek, a ride-hailing and delivery company. I collaborated with product and business teams to define metrics and analyze customer journeys for GoFood , Gojek&amp;rsquo;s food delivery service.
 Backround Gojek is a super app providing ride-hailing, food delivery, and digital payment services in Southeast Asia. GoFood, their food delivery business, has grown rapidly but faces fierce competition.
 While Gojek tracks high-level business metrics, they lacked visibility into detailed customer journeys and events .</description>

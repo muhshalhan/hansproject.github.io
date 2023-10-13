@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tableau on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/tags/tableau/</link>
-    <description>Recent content in Tableau on Shalhan Assalam - Data Analyst</description>
+    <title>Tableau on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/tags/tableau/</link>
+    <description>Recent content in Tableau on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Samba Commerce Dashboard</title>
-      <link>https://hansproject.github.io/projects/samba-commerce/</link>
+      <link>https://hansproject.netlify.app/projects/samba-commerce/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/samba-commerce/</guid>
+      <guid>https://hansproject.netlify.app/projects/samba-commerce/</guid>
       <description>Situation As data analyst in Samba Commerce, the CEO ask me to make dashboard to capture and understand more metrics and make the business data more comprehensive and insightful.
 Backround You are a data analyst at one of the fast growing ecommerce in Brazil named Samba Commerce, which just launched in 2021. Samba Commerce offers more than 15k products, and more than 50 product categories to the customers all over Brazil.</description>
     </item>

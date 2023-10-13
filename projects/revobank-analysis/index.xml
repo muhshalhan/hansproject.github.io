@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RevoBank Fintech Analysis | Part 1: EDA on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/projects/revobank-analysis/</link>
-    <description>Recent content in RevoBank Fintech Analysis | Part 1: EDA on Shalhan Assalam - Data Analyst</description>
+    <title>RevoBank Fintech Analysis | Part 1: EDA on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/projects/revobank-analysis/</link>
+    <description>Recent content in RevoBank Fintech Analysis | Part 1: EDA on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/projects/revobank-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/projects/revobank-analysis/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

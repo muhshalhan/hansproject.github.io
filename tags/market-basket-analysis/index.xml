@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Market Basket Analysis on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/tags/market-basket-analysis/</link>
-    <description>Recent content in Market Basket Analysis on Shalhan Assalam - Data Analyst</description>
+    <title>Market Basket Analysis on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/tags/market-basket-analysis/</link>
+    <description>Recent content in Market Basket Analysis on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/tags/market-basket-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/tags/market-basket-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>theLook eCommerce 2022 - SQL</title>
-      <link>https://hansproject.github.io/projects/thelook-ecommerce/</link>
+      <link>https://hansproject.netlify.app/projects/thelook-ecommerce/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/thelook-ecommerce/</guid>
+      <guid>https://hansproject.netlify.app/projects/thelook-ecommerce/</guid>
       <description>Situation I conducted SQL analysis on ecommerce data from TheLook to provide growth and retention insights to inform optimization decisions during a potential crisis.
 Backround TheLook is an ecommerce clothing retailer anticipating an economic downturn in 2023. To optimize their business, management needs to strategically cut costs in underperforming areas.
 TheLook lacks insights into their category growth and customer retention metrics. This data is required to determine which categories have momentum versus which are stagnating.</description>

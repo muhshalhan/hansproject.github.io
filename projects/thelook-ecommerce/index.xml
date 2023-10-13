@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>theLook eCommerce 2022 - SQL on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/projects/thelook-ecommerce/</link>
-    <description>Recent content in theLook eCommerce 2022 - SQL on Shalhan Assalam - Data Analyst</description>
+    <title>theLook eCommerce 2022 - SQL on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/projects/thelook-ecommerce/</link>
+    <description>Recent content in theLook eCommerce 2022 - SQL on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/projects/thelook-ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/projects/thelook-ecommerce/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Correltation on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/tags/correltation/</link>
-    <description>Recent content in Correltation on Shalhan Assalam - Data Analyst</description>
+    <title>Correltation on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/tags/correltation/</link>
+    <description>Recent content in Correltation on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/tags/correltation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/tags/correltation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Luxura Analysis Part 2</title>
-      <link>https://hansproject.github.io/projects/luxura-analysis2/</link>
+      <link>https://hansproject.netlify.app/projects/luxura-analysis2/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/luxura-analysis2/</guid>
+      <guid>https://hansproject.netlify.app/projects/luxura-analysis2/</guid>
       <description>Situation This is the continuation of Luxura Analysis Part 1. In this project, we continue our analysis on an individual customer&amp;rsquo;s purchase data to provide personalized insights.
 Backround Luxura is an e-commerce platform selling high-end fashion brands. Mr. Chu is one of their top customers and investors who heavily purchases from his favorite brand on Luxura, Adibi.
 However, Mr. Chu wants to better manage his expenses going forward. He has spent a significant portion of his luxury budget on Adibi items.</description>

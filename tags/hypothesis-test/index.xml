@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hypothesis Test on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/tags/hypothesis-test/</link>
-    <description>Recent content in Hypothesis Test on Shalhan Assalam - Data Analyst</description>
+    <title>Hypothesis Test on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/tags/hypothesis-test/</link>
+    <description>Recent content in Hypothesis Test on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/tags/hypothesis-test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/tags/hypothesis-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Luxura Analysis Part 1</title>
-      <link>https://hansproject.github.io/projects/luxura-analysis1/</link>
+      <link>https://hansproject.netlify.app/projects/luxura-analysis1/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/luxura-analysis1/</guid>
+      <guid>https://hansproject.netlify.app/projects/luxura-analysis1/</guid>
       <description>Situation In this project, I&amp;rsquo;m part of Luxura&amp;rsquo;s Data Analytics team. As fashion e-commerce company, Luxura selling several luxury fashion brands. In order to expand business partnership, Luxura needed to decide which brand to prioritize as their main brand partnership based on historical performance.
 Backround Luxura is an e-commerce company that exclusively sells high-end fashion brands including Adibi, Balena, and Celinna . These brands have seen increasing market share over the past 3 years and rely on Luxura as their sole retail partner.</description>
     </item>
     
     <item>
       <title>IBM HR Analytics</title>
-      <link>https://hansproject.github.io/projects/ibm-hr-analysis/</link>
+      <link>https://hansproject.netlify.app/projects/ibm-hr-analysis/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/ibm-hr-analysis/</guid>
+      <guid>https://hansproject.netlify.app/projects/ibm-hr-analysis/</guid>
       <description>Situation This project was conducted during my role as a Data Analyst student at RevoU. In this project, we use IBM as organization that experiencing a high annual attrition rate of 15% , leading to many vacant positions.
 DISCLAIMER: This project is focused on exploring the basic concepts of business case understanding. The data cleaning, EDA, and GBM modelling processes are not shown directly in the slide deck. You can access google colab to see how it works (at the end).</description>
     </item>

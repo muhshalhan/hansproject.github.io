@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Samba Commerce Dashboard on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/projects/samba-commerce/</link>
-    <description>Recent content in Samba Commerce Dashboard on Shalhan Assalam - Data Analyst</description>
+    <title>Samba Commerce Dashboard on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/projects/samba-commerce/</link>
+    <description>Recent content in Samba Commerce Dashboard on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/projects/samba-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/projects/samba-commerce/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

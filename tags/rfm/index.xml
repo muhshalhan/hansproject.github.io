@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RFM on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/tags/rfm/</link>
-    <description>Recent content in RFM on Shalhan Assalam - Data Analyst</description>
+    <title>RFM on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/tags/rfm/</link>
+    <description>Recent content in RFM on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/tags/rfm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/tags/rfm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RevoBank Fintech Analysis | Part 2: Segmentation</title>
-      <link>https://hansproject.github.io/projects/revobank-analysis2/</link>
+      <link>https://hansproject.netlify.app/projects/revobank-analysis2/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/revobank-analysis2/</guid>
+      <guid>https://hansproject.netlify.app/projects/revobank-analysis2/</guid>
       <description>Situation This the second part of RevoBank analysis, focused on segmentation analysis using RFM and K-means.
 As a Data Analyst on RevoBank&amp;rsquo;s Card Partnerships team, I was tasked with evaluating and optimizing a 6-month promotional rewards program with RevoShop to increase credit card usage and revenue while reducing program costs. My role was to analyze customer data to provide insights into behaviors that could inform strategies for customizing the rewards by segment to boost engagement in a more cost-effective manner.</description>
     </item>

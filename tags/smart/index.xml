@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SMART on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/tags/smart/</link>
-    <description>Recent content in SMART on Shalhan Assalam - Data Analyst</description>
+    <title>SMART on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/tags/smart/</link>
+    <description>Recent content in SMART on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/tags/smart/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/tags/smart/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IBM HR Analytics</title>
-      <link>https://hansproject.github.io/projects/ibm-hr-analysis/</link>
+      <link>https://hansproject.netlify.app/projects/ibm-hr-analysis/</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/ibm-hr-analysis/</guid>
+      <guid>https://hansproject.netlify.app/projects/ibm-hr-analysis/</guid>
       <description>Situation This project was conducted during my role as a Data Analyst student at RevoU. In this project, we use IBM as organization that experiencing a high annual attrition rate of 15% , leading to many vacant positions.
 DISCLAIMER: This project is focused on exploring the basic concepts of business case understanding. The data cleaning, EDA, and GBM modelling processes are not shown directly in the slide deck. You can access google colab to see how it works (at the end).</description>
     </item>

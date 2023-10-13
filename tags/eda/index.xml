@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EDA on Shalhan Assalam - Data Analyst</title>
-    <link>https://hansproject.github.io/tags/eda/</link>
-    <description>Recent content in EDA on Shalhan Assalam - Data Analyst</description>
+    <title>EDA on Han&#39;s Project</title>
+    <link>https://hansproject.netlify.app/tags/eda/</link>
+    <description>Recent content in EDA on Han&#39;s Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.github.io/tags/eda/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hansproject.netlify.app/tags/eda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Samba Commerce Dashboard</title>
-      <link>https://hansproject.github.io/projects/samba-commerce/</link>
+      <link>https://hansproject.netlify.app/projects/samba-commerce/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/samba-commerce/</guid>
+      <guid>https://hansproject.netlify.app/projects/samba-commerce/</guid>
       <description>Situation As data analyst in Samba Commerce, the CEO ask me to make dashboard to capture and understand more metrics and make the business data more comprehensive and insightful.
 Backround You are a data analyst at one of the fast growing ecommerce in Brazil named Samba Commerce, which just launched in 2021. Samba Commerce offers more than 15k products, and more than 50 product categories to the customers all over Brazil.</description>
     </item>
     
     <item>
       <title>RevoBank Fintech Analysis | Part 1: EDA</title>
-      <link>https://hansproject.github.io/projects/revobank-analysis/</link>
+      <link>https://hansproject.netlify.app/projects/revobank-analysis/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/revobank-analysis/</guid>
+      <guid>https://hansproject.netlify.app/projects/revobank-analysis/</guid>
       <description>Situation This the first part of RevoBank analysis, focused on EDA and A/B testing analysis.
 As a Data Analyst on RevoBank&amp;rsquo;s Card Partnerships team, I was tasked with evaluating and optimizing a 6-month promotional rewards program with RevoShop to increase credit card usage and revenue while reducing program costs. My role was to analyze customer data to provide insights into behaviors that could inform strategies for customizing the rewards by segment to boost engagement in a more cost-effective manner.</description>
     </item>
     
     <item>
       <title>Luxura Analysis Part 1</title>
-      <link>https://hansproject.github.io/projects/luxura-analysis1/</link>
+      <link>https://hansproject.netlify.app/projects/luxura-analysis1/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/luxura-analysis1/</guid>
+      <guid>https://hansproject.netlify.app/projects/luxura-analysis1/</guid>
       <description>Situation In this project, I&amp;rsquo;m part of Luxura&amp;rsquo;s Data Analytics team. As fashion e-commerce company, Luxura selling several luxury fashion brands. In order to expand business partnership, Luxura needed to decide which brand to prioritize as their main brand partnership based on historical performance.
 Backround Luxura is an e-commerce company that exclusively sells high-end fashion brands including Adibi, Balena, and Celinna . These brands have seen increasing market share over the past 3 years and rely on Luxura as their sole retail partner.</description>
     </item>
     
     <item>
       <title>theLook eCommerce 2022 - SQL</title>
-      <link>https://hansproject.github.io/projects/thelook-ecommerce/</link>
+      <link>https://hansproject.netlify.app/projects/thelook-ecommerce/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hansproject.github.io/projects/thelook-ecommerce/</guid>
+      <guid>https://hansproject.netlify.app/projects/thelook-ecommerce/</guid>
       <description>Situation I conducted SQL analysis on ecommerce data from TheLook to provide growth and retention insights to inform optimization decisions during a potential crisis.
 Backround TheLook is an ecommerce clothing retailer anticipating an economic downturn in 2023. To optimize their business, management needs to strategically cut costs in underperforming areas.
 TheLook lacks insights into their category growth and customer retention metrics. This data is required to determine which categories have momentum versus which are stagnating.</description>
